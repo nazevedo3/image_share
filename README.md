@@ -13,7 +13,7 @@ Who needs S3, Dropbox, DigitalOcean, etc?!?!?  Image Share is the future!!  Prob
 
 ## How it's built
 Technologies/Languages Used:
-    1. Go
-    2. Vue.Js w/Vuetify
-    3. Postgres
-    4. Docker/Docker Compose
+1. Go
+2. Vue.Js w/Vuetify
+3. Postgres
+4. Docker/Docker Compose
